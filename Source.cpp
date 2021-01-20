@@ -12,4 +12,5 @@ int main() {
 	num++;
 	if (num > 1)
 		std::cout << "wow" << std::endl;
+	cout << "this is a feature" << std::endl;
 }
