@@ -12,4 +12,5 @@ int main() {
 	num++;
 	if (num > 1)
 		std::cout << "wow" << std::endl;
+	std::cout << "this is in main" << std::endl;
 }
