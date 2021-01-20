@@ -7,4 +7,9 @@
 int main() {
 
 	std::cout << "It do" << std::endl;
+	int num = 78;
+	num++;
+	num++;
+	if (num > 1)
+		std::cout << "wow" << std::endl;
 }
